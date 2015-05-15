@@ -1,0 +1,1 @@
+[how to read first 3 rows from every CUBRID database table](http://code.google.com/p/brig/wiki/read_first_3_rows_from_every_cubrid_database_table)
